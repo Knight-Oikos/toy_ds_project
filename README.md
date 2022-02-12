@@ -1,4 +1,4 @@
-# toy-ds-project
+# toy_ds_project
 
 This is my new project
 
